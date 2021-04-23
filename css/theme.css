@@ -1,35 +1,35 @@
-header{
+#a{
     background-color: blue;
 }
 
-aside{
+#b{
     background-color: rgb(0, 204, 255);
 }
 
-article section:first-child div:first-child{
+#c{
     background-color: rgb(0, 255, 0);
 }
 
-article section:first-child div:last-child{
+#d{
     background-color: rgb(255, 166, 0);
 }
 
-.spane{
+#e{
     background-color: rgb(0, 110, 255);
 }
 
-.spanf{
+#f{
     background-color: rgb(255, 0, 255);
 }
 
-.spang{
+#g{
     background-color: rgb(255, 217, 0);
 }
 
-.spanh{
+#h{
     background-color: rgb(112, 8, 112);
 }
 
-article section:last-child{
+#i{
     background-color: rgb(255, 0, 0);
 }
